@@ -25,7 +25,7 @@
 * 폐기물 업데이트 현황 목록
 * 폐기물 상세보기
 
-
+----
 # 👨🏻‍💻 시연 화면
 ## ▶ 폐기물 검색
 <img src= "https://github.com/benecia2/Android-Project/assets/99549882/bdab57fc-c589-46aa-9d95-05acb0cc57b5" width="400px" height="600px"/>
