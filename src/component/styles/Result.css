@@ -1,0 +1,232 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-dynamic-subset.css");
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@600&display=swap');
+
+/**     content     **/
+.resultboard {
+    font-family: Pretendard;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-inline: 20%;
+    height: 800px;
+    overflow-y: auto;
+    /* 드래그 방지*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.resultboard::-webkit-scrollbar {
+    width: 0;
+}
+
+.resultboard .title {
+    font-weight: 900;   
+    text-decoration: underline wavy white;
+}
+
+.resultboard .subtitle {
+    text-align: start;
+    font-size: 20px;
+}
+
+.resultboard a{
+    color: #ffffff;
+    font-weight: 600;
+}
+
+.ticket {
+    background-image: url('../ui/bpass.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 320px;
+    width: 800px;
+    margin-inline: 15%;
+    margin-top: 20px;
+    padding-top: 70px;
+    margin-bottom: -50px;
+}
+
+.tText {
+    font-family: 'Klee One', cursive;
+    font-size: 20px;
+    margin-inline: 16.5%;
+    width: 150px;
+    text-align: center;
+}
+
+.tImg {
+    width: 150px;
+    transform: translate(368%,-95%);
+}
+
+.scroll-down {
+    width: 1rem;
+    height: 1rem;
+    border: 2px solid transparent;
+    border-right-color: white;
+    border-bottom-color: white;
+    transform: rotate(45deg);
+    margin-inline: 49%;
+    animation: scroll 1.15s linear infinite;
+    margin-top: -5px;
+}
+
+@keyframes scroll {
+    25% {
+        opacity: 0.25;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    75% {
+        opacity: 0.75;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.rResult {
+    display: flex;
+    margin-bottom: -10px;
+}
+
+.listTitle {
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff80;
+    border-radius: 10px;
+    border-inline: 2px solid #00000080;
+}
+
+.tourList {
+    margin-right: 30px;
+}
+
+.tourCard {
+    display: flex;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #ffffff30;
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    border-radius: 5px;
+}
+
+.tourCard img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.tourText {
+    width: 300px;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #000000CC;
+}
+
+.detail {
+    float: right;
+}
+
+.accmCard {
+    display: flex;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #00000010;
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    border-radius: 5px;
+}
+
+.accmCard img {
+    height: 200px;
+    border-radius: 10px;
+}
+
+.accmCard .subtitle {
+    color: #ffffffCC;
+}
+
+.accmText {
+    width: 300px;
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: #ffffffCC;
+}
+
+#score {
+    background-color: #000846;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+}
+
+#star {
+    margin-right: 10px;
+}
+
+#tax {
+    color: #ffffff80;
+    margin-top: 25px;
+    float: right;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+#divA {
+    font-size: 50px;
+    color: #ffffff80;
+    line-height: 0px;
+    text-align: center;
+}
+
+.another {
+    display: flex;
+    padding-bottom: 20px;
+    background-color: #00084650;
+    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+}
+
+.another .subtitle {
+    color: #ffffffCC;
+}
+
+.type {
+    margin-left: 30px;
+}
+
+.type .subtitle {
+    text-align: center;
+}
+
+.type img {
+    width: 200px;
+}
+
+.anthrCard {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.anthrCard_d {
+    display: flex;
+    padding: 10px;
+}
+
+.anthrCard_d img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+.anthrText {
+    margin-left: 20px;
+    color: #ffffffCC;
+}

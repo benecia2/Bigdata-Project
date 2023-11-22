@@ -1,0 +1,68 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-dynamic-subset.css");
+
+/**     content     **/
+.viewboard {
+    font-family: Pretendard;
+    margin-top: 3%;
+    padding-block: 2%;
+    margin-inline: 6%;
+    padding-bottom: 5%;
+    background-image: url('../ui/boardO.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* 드래그 방지*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sign {
+    color: #122171;
+    font-size: 40px;
+}
+
+.part1, .part2 {
+    display: flex;
+}
+
+.gTitle {
+    color: white;
+    font-weight: 600;
+    line-height: 25px;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.est {
+    color: #FFC600;
+}
+
+.gArea {
+    text-align: center;
+    padding-left: 5%;
+}
+
+.tArea {
+    padding-left: 5%;
+    padding-right: 7%;
+}
+
+.content {
+    font-size: 20px;
+    font-weight: 500;
+    word-wrap: break-word;
+    overflow: hidden;
+}
+

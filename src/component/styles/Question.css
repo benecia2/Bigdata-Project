@@ -1,0 +1,94 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-dynamic-subset.css");
+
+/**     content     **/ 
+.questionboard {
+    font-family: Pretendard;
+    margin-top: 5%;
+    margin-inline: 10%;
+    background-image: url('../ui/board.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1600px;
+    height: 500px; 
+    padding: 40px;
+
+    /* 드래그 방지*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#ifooter {
+    margin-left: 84%;
+    font-size: 15px;
+}
+.questionboard a {
+    text-decoration: none;
+}
+
+.questionboard label {
+    cursor: pointer;
+}
+
+.qTitle {
+    color: #000846;
+    font-size: 25px;
+    font-weight: 600;
+    padding-top: 1%;
+    margin-left: 2%;
+}
+
+.qImgs {
+    width: 1400px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.qImg {
+    width: 250px;
+    margin-left: 20px;
+}
+
+.qDiv {
+    position: relative;
+    display: flex;
+    width: 1400px;
+    justify-content: space-around;
+}
+
+.qRadio {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.qText {
+    width: 250px;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    text-align: justify;
+    white-space: nowrap;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    margin-top: 10px;
+}
+
+.qBtn {
+    width: 1400px;
+    display: flex ;
+    justify-content: center;
+}
+
+.btns {
+    transition: transform 0.2s;
+    cursor: pointer;
+    padding-top: 10px;
+    margin-inline: 10px;
+}
+
+.btns:active {
+    transform: scale(0.95);
+}
+
+

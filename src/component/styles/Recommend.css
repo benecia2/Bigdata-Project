@@ -1,0 +1,43 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.8/dist/web/static/pretendard-dynamic-subset.css");
+
+/**     content     **/
+.recommendboard {
+    margin-top: 5%;
+    padding-top: 4%;
+    margin-inline: 10%;
+    background-image: url('../ui/boardR.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    /* 드래그 방지*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    
+}
+
+.rcards {
+    margin-left: 7%;
+    margin-bottom: 1%;
+}
+
+.rcards img {
+    margin-right: 10px;
+    width: 250px;
+    transition: transform 0.3s;
+}
+
+.rcards img:hover{
+    transform: scale(1.05);
+}
+
+.startbtn {
+    margin-inline: 45%;
+    margin-bottom: 3%;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+
+.startbtn:active {
+    transform: scale(0.95);
+}
