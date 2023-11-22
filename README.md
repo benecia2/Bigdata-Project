@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## ✈️ 프로젝트 소개
+* 군집 특성에 따른 사용자 맞춤 관광지 추천 사이트
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📲 서버
+* https://github.com/benecia2/Bigdata-Server
 
-## Available Scripts
+## 📅 개발기간
+  * 23.10.23 ~ 23.11.20
 
-In the project directory, you can run:
+## 🙎🏻‍♂️ 개발 인원 (6)
 
-### `npm start`
+## ⚙️ 개발 환경
+* **React**
+* `Java 11`
+* `Python`
+* **IDE** : STS 4.19.0
+* **Framework** : Springboot (2.7.17)
+* **Database** : MySQL (8.0.33)
+* **ORM** : JPA
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 주요 기능
+### ✔️ 메인화면
+* 폐기물 카테고리별 분류
+* 폐기물 검색
+* 폐기물 업데이트 현황 목록
+* 폐기물 상세보기
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# 👨🏻‍💻 시연 화면
+## ▶ 폐기물 검색
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/bdab57fc-c589-46aa-9d95-05acb0cc57b5" width="400px" height="600px"/>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ▶ 카테고리별 분류
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/75740e32-0c50-4c8d-b111-e297cacbc324" width="400px" height="600px"/>
 
-### `npm run build`
+## ▶ 업데이트된 폐기물
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/5ffbd251-049c-451c-bbf4-60468efc1abf" width="400px" height="600px" />
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ▶ 게시글 작성
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/cb5916fa-a028-4b2e-b3ed-580a0be213f0" width="400px" height="600px" />
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## ▶ 게시글 검색 및 더보기
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/4e5c741f-c3c3-4928-b443-26134ea46b6b" width="400px" height="600px" />
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ▶ 게시글 상세보기(댓글 추가 및 삭제)
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/a5c79cf4-aa43-4cce-ad07-efe848b80168" width="400px" height="600px" />
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## ▶ 게시글 수정
+<img src= "https://github.com/benecia2/Android-Project/assets/99549882/06aff186-9f37-44a6-87fc-a361061dc121" width="400px" height="600px" />
