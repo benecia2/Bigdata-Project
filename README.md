@@ -27,23 +27,14 @@
 
 ----
 # 👨🏻‍💻 시연 화면
-## ▶ 폐기물 검색
+## ▶ Overview
 <img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/dfda3d38-7b36-4bc4-b978-45bd15a2c6fd" width="800px" height="500px"/>
 
-## ▶ 카테고리별 분류
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/75740e32-0c50-4c8d-b111-e297cacbc324" width="400px" height="600px"/>
+## ▶ Static
+<img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/48a89a53-ebf6-430c-a7b8-1f5010b07bac" width="800px" height="500px"/>
 
-## ▶ 업데이트된 폐기물
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/5ffbd251-049c-451c-bbf4-60468efc1abf" width="400px" height="600px" />
+## ▶ Analysis
+<img src= "" width="800px" height="500px" />
 
-## ▶ 게시글 작성
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/cb5916fa-a028-4b2e-b3ed-580a0be213f0" width="400px" height="600px" />
-
-## ▶ 게시글 검색 및 더보기
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/4e5c741f-c3c3-4928-b443-26134ea46b6b" width="400px" height="600px" />
-
-## ▶ 게시글 상세보기(댓글 추가 및 삭제)
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/a5c79cf4-aa43-4cce-ad07-efe848b80168" width="400px" height="600px" />
-
-## ▶ 게시글 수정
-<img src= "https://github.com/benecia2/Android-Project/assets/99549882/06aff186-9f37-44a6-87fc-a361061dc121" width="400px" height="600px" />
+## ▶ Recommend
+<img src= "" width="800px" height="500px" />
