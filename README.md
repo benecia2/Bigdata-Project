@@ -34,7 +34,7 @@
 <img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/48a89a53-ebf6-430c-a7b8-1f5010b07bac" width="800px" height="500px"/>
 
 ## ▶ Analysis
-<img src= "" width="800px" height="500px" />
+<img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/54f703f0-ae57-413c-84eb-06a52db3c6d2" width="800px" height="500px" />
 
 ## ▶ Recommend
-<img src= "" width="800px" height="500px" />
+<img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/8c10fa92-5cc5-4f3c-97e7-ac407050e1b4" width="800px" height="500px" />
