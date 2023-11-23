@@ -28,7 +28,7 @@
 ----
 # 👨🏻‍💻 시연 화면
 ## ▶ 폐기물 검색
-<img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/8f49b3db-7bdd-4f61-9bdd-0b2055285e8c" width="400px" height="600px"/>
+<img src= "https://github.com/benecia2/Bigdata-Project/assets/99549882/e8006237-da9e-4fa1-8eee-6b07ff8daf48" width="400px" height="600px"/>
 
 ## ▶ 카테고리별 분류
 <img src= "https://github.com/benecia2/Android-Project/assets/99549882/75740e32-0c50-4c8d-b111-e297cacbc324" width="400px" height="600px"/>
